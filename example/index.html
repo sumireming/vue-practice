@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>demo</title>
+  <link href="https://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+
+	<div id="app">
+		<h2>增删改查</h2>
+		<hr>
+		<div>
+			<form class="form-search">
+				<button class="btn btn-primary" ng-click="add()" >添加</button>
+				<input type="text" ng-model="keyword" placeholder="请输入关键词" >
+			</form>
+			<table class="table table-bordered table-striped">
+				<thead>
+					<tr>
+						<td>Name</td>
+						<td>Gender</td>
+						<td>Age</td>
+						<td>Company</td>
+						<td>Phone</td>
+						<td>Email</td>
+						<td>操作</td>
+					</tr>
+				</thead>
+				<tbody>
+					<tr v-for="item in list">
+						<td>{{item.name}}</td>
+						<td>{{item.gender}}</td>
+						<td>{{item.age}}</td>
+						<td>{{item.company}}</td>
+						<td>{{item.phone}}</td>
+						<td>{{item.email}}</td>
+						<td></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+	</div>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.0.3/vue.js"></script>
+	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+	<script type="text/javascript">
+
+	var app = new Vue({
+		el : '#app',
+		data : {
+			list : []
+		},
+		beforeCreate : function() {
+			var self = this;
+			axios.get('data.json')
+				.then(function(response) {
+					self.list = response.data;
+				})
+				.catch(function (error) {
+					console.log(error)
+				});
+		}
+
+
+	})
+
+	
+
+	
+
+	</script>
+</body>
+</html>

@@ -1,0 +1,227 @@
+[
+  {
+    "_id": "58f098eb0ff9dd4b5aced22c",
+    "index": 0,
+    "guid": "d30478c9-8db4-4e1e-a7fb-dbaedd44d400",
+    "isActive": true,
+    "balance": "$2,260.66",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "eyeColor": "brown",
+    "name": "Lorie Reyes",
+    "gender": "female",
+    "company": "HYDROCOM",
+    "email": "loriereyes@hydrocom.com",
+    "phone": "+1 (904) 561-3203",
+    "address": "646 Metrotech Courtr, Roland, Guam, 6628",
+    "about": "Incididunt eu deserunt deserunt et exercitation veniam est adipisicing amet. Ipsum quis nostrud veniam excepteur exercitation amet nostrud dolor sunt magna ut occaecat. Ipsum dolor aliquip ipsum mollit proident sit quis amet. Sint nisi ut mollit deserunt labore officia officia consectetur eiusmod id consectetur. Esse fugiat elit pariatur occaecat laborum labore.\r\n",
+    "registered": "2016-07-31T10:56:19 -08:00",
+    "latitude": -30.848315,
+    "longitude": 38.915175,
+    "tags": [
+      "mollit",
+      "cillum",
+      "irure",
+      "ut",
+      "ex",
+      "exercitation",
+      "excepteur"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Martinez Cunningham"
+      },
+      {
+        "id": 1,
+        "name": "Hickman Weeks"
+      },
+      {
+        "id": 2,
+        "name": "Knox Allison"
+      }
+    ],
+    "greeting": "Hello, Lorie Reyes! You have 5 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "58f098eb90df804dac079635",
+    "index": 1,
+    "guid": "2a6aef20-ea8e-495c-a918-ec103002aa50",
+    "isActive": false,
+    "balance": "$2,906.08",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "blue",
+    "name": "Dionne Murray",
+    "gender": "female",
+    "company": "MINGA",
+    "email": "dionnemurray@minga.com",
+    "phone": "+1 (880) 542-3808",
+    "address": "531 Plymouth Street, Draper, Kansas, 4247",
+    "about": "Excepteur irure labore adipisicing anim dolore irure incididunt cillum culpa occaecat culpa. Ut excepteur enim eu sint duis enim consectetur enim excepteur aliquip quis in nostrud ipsum. Ullamco reprehenderit velit qui eiusmod in aute Lorem aute id. Deserunt cillum non ea ex laboris minim ut proident adipisicing duis labore quis eiusmod fugiat. Cillum magna culpa eiusmod ullamco duis. Non nostrud adipisicing do ex laborum culpa aliqua et laborum labore in labore.\r\n",
+    "registered": "2014-05-29T11:03:39 -08:00",
+    "latitude": 84.213013,
+    "longitude": -161.907099,
+    "tags": [
+      "cillum",
+      "consequat",
+      "ex",
+      "culpa",
+      "sunt",
+      "excepteur",
+      "officia"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Josefina Garza"
+      },
+      {
+        "id": 1,
+        "name": "Eugenia Russell"
+      },
+      {
+        "id": 2,
+        "name": "Briggs Roach"
+      }
+    ],
+    "greeting": "Hello, Dionne Murray! You have 5 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "58f098ebd8cf36cb961cf697",
+    "index": 2,
+    "guid": "a996bdab-7565-47a5-bb62-cf109c8bcebb",
+    "isActive": true,
+    "balance": "$3,431.16",
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "eyeColor": "blue",
+    "name": "Lakeisha Shepard",
+    "gender": "female",
+    "company": "ENORMO",
+    "email": "lakeishashepard@enormo.com",
+    "phone": "+1 (926) 519-3965",
+    "address": "858 Preston Court, Lavalette, Illinois, 3420",
+    "about": "Et fugiat veniam sit eiusmod qui ad sint aliqua in. Velit cillum excepteur tempor duis. Laboris elit commodo reprehenderit nostrud ipsum ipsum nulla magna duis sunt labore quis deserunt. Ea aute anim fugiat pariatur adipisicing excepteur ex anim pariatur aute labore dolore. Laboris ullamco esse qui voluptate. Adipisicing incididunt officia do occaecat officia occaecat labore in reprehenderit.\r\n",
+    "registered": "2015-10-22T09:00:11 -08:00",
+    "latitude": 89.97899,
+    "longitude": 5.452862,
+    "tags": [
+      "magna",
+      "elit",
+      "id",
+      "irure",
+      "aute",
+      "eiusmod",
+      "incididunt"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Espinoza Logan"
+      },
+      {
+        "id": 1,
+        "name": "Daphne Mccray"
+      },
+      {
+        "id": 2,
+        "name": "Leigh Marquez"
+      }
+    ],
+    "greeting": "Hello, Lakeisha Shepard! You have 3 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "58f098ebe7d09918e5877ac2",
+    "index": 3,
+    "guid": "07c5b3b6-4572-4c97-8530-f896d855085a",
+    "isActive": false,
+    "balance": "$2,563.90",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "brown",
+    "name": "Gonzales Levy",
+    "gender": "male",
+    "company": "TRANSLINK",
+    "email": "gonzaleslevy@translink.com",
+    "phone": "+1 (962) 581-2704",
+    "address": "527 Times Placez, Kent, New Jersey, 8531",
+    "about": "Sunt ea et id labore dolore deserunt incididunt adipisicing. Adipisicing et officia esse eiusmod voluptate excepteur deserunt do duis cupidatat reprehenderit. Consectetur elit consectetur voluptate ex magna id officia ea est minim labore cupidatat enim.\r\n",
+    "registered": "2015-05-25T02:30:52 -08:00",
+    "latitude": -24.215312,
+    "longitude": 128.573936,
+    "tags": [
+      "cupidatat",
+      "sint",
+      "esse",
+      "eu",
+      "id",
+      "minim",
+      "nostrud"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Gilbert Oneil"
+      },
+      {
+        "id": 1,
+        "name": "Le Pope"
+      },
+      {
+        "id": 2,
+        "name": "Alford Rosario"
+      }
+    ],
+    "greeting": "Hello, Gonzales Levy! You have 10 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "58f098eb70df62da74cef2c9",
+    "index": 4,
+    "guid": "9c13ad0c-0353-48b0-bff8-3bf36fbfa7a7",
+    "isActive": false,
+    "balance": "$2,725.56",
+    "picture": "http://placehold.it/32x32",
+    "age": 31,
+    "eyeColor": "green",
+    "name": "Aguirre Adkins",
+    "gender": "male",
+    "company": "INJOY",
+    "email": "aguirreadkins@injoy.com",
+    "phone": "+1 (812) 409-2745",
+    "address": "957 Albany Avenue, Delwood, Oklahoma, 3876",
+    "about": "Aliqua ea dolore veniam quis sunt et nostrud velit et. Cillum pariatur nisi proident enim adipisicing consequat dolore adipisicing labore. Tempor nisi mollit incididunt laborum voluptate ex mollit dolor consequat. Consectetur reprehenderit id est sunt veniam eiusmod duis sunt. Lorem deserunt aliqua deserunt quis esse culpa ex adipisicing pariatur dolor velit non.\r\n",
+    "registered": "2014-02-13T06:02:18 -08:00",
+    "latitude": 20.179494,
+    "longitude": -85.298,
+    "tags": [
+      "fugiat",
+      "proident",
+      "aliquip",
+      "irure",
+      "consequat",
+      "do",
+      "excepteur"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mueller Hernandez"
+      },
+      {
+        "id": 1,
+        "name": "Livingston Blevins"
+      },
+      {
+        "id": 2,
+        "name": "Letha Rich"
+      }
+    ],
+    "greeting": "Hello, Aguirre Adkins! You have 8 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
